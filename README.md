@@ -6,9 +6,29 @@ Este repositorio contiene el proyecto final de la clase de Programación y Méto
 * Calcular la fuerza de atracción del peso de una persona
 * Calcula el índice de masa corporal (IMC)
 ### [**Practica No. 2 Condicionales simples, anidados y mútiples**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%202)
-### **Practica No. 3 Estructuras repetitivas**
-### **Practica No. 4 Funciones, arreglos y matrices**
-### **Practica No. 5 Métodos cerrados: de la bisección y de la falsa posición**
+* Número par e impar
+* Programa de la edad
+* La ecuación cuadrática
+* Condicionales anidados
+* Condicionales y operadores lógicos
+* Condicionales múltiples
+### [**Practica No. 3 Estructuras repetitivas**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%203)
+* Implementaciones de ciclos
+* Dígitos binarios de un número decimal
+* Ciclo “do while”
+* Secuencia de números de Fibonacci
+### [**Practica No. 4 Funciones, arreglos y matrices**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%204)
+* Arreglos de vectores elemento a elemento
+* Vectores con elementos enteros y se llenan de forma aleatoria
+* Suma de los dos arreglos vectoriales
+* Suma de todos los elementos de un arreglo
+* Llenado de arreglos bidimensionales(matrices) con números aleatorios
+* Suma y multiplicación de matrices
+* Menú con todas estas funciones  
+
+### [**Practica No. 5 Métodos cerrados **](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%205)
+* Método de la bisección 
+* Método de la falsa posición
 ### **Practica No. 6 Métodos abiertos: de Newton-Rhapson y de la secante**
 ### **Practica No. 10 Derivación numérica**
 ### **Practica No. 11 Métodos de ecuaciones lineales**
