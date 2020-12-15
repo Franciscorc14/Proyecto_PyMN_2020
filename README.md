@@ -1,9 +1,9 @@
 ## Proyecto_PyMN_2020
 #**Universidad Autónoma  de Baja California** 
 Este repositorio contiene el proyecto final de la clase de Programación y Métodos Numéricos en la UABC. 
-* **[Practica No. 1 Introducción y tipos de variables]** (https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%201)
+* [**Practica No. 1 Introducción y tipos de variables**] (https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%201)
 -
-* **[Practica No. 2 Condicionales simples, anidados y mútiples]** (https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%202)
+* [**Practica No. 2 Condicionales simples, anidados y mútiples**] (https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%202)
 * **Practica No. 3 Estructuras repetitivas**
 * **Practica No. 4 Funciones, arreglos y matrices**
 * **Practica No. 5 Métodos cerrados: de la bisección y de la falsa posición**
