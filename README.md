@@ -26,10 +26,17 @@ Este repositorio contiene el proyecto final de la clase de Programación y Méto
 * Suma y multiplicación de matrices
 * Menú con todas estas funciones  
 
-### [**Practica No. 5 Métodos cerrados **](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%205)
-* Método de la bisección 
+### [**Practica No. 5 Métodos cerrados**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%205)
+* Método de la bisección
 * Método de la falsa posición
-### **Practica No. 6 Métodos abiertos: de Newton-Rhapson y de la secante**
-### **Practica No. 10 Derivación numérica**
-### **Practica No. 11 Métodos de ecuaciones lineales**
+### [**Practica No. 6 Métodos abiertos**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%206)
+* Método de Newton-Rhapson
+* Método de la secante
+### [**Practica No. 10 Derivación numérica**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%2010)
+* Diferenciación hacia adelante con error
+* Diferenciación hacia atrás con error
+* Diferenciación centrada con error
+### [**Practica No. 11 Métodos de ecuaciones lineales**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%2011)
+* Método de Jacobi
+* Método de Gauss Seidel
 
