@@ -1,6 +1,7 @@
-## Proyecto_PyMN_2020
-**Universidad Autónoma  de Baja California** 
-Este repositorio contiene el proyecto final de la clase de Programación y Métodos Numéricos en la UABC. 
+# Universidad Autónoma  de Baja California 
+## Proyecto Programación y Métodos Numéricos 2020
+* Este repositorio contiene el proyecto final de la clase de Programación y Métodos Numéricos en la UABC. El proyecto consiste en crear una página web donde almacenemos los ejercicios realizados durante el semestre en cada práctica. A continuación, se mostrará el nombre de la práctica y el contenido de actividades en cada una. Para visualizar el contenido favor de dar clic sobre el hipervínculo que se encuentra en el nombre de la práctica. 
+
 ### [**Practica No. 1 Introducción y tipos de variables**](https://github.com/Franciscorc14/Proyecto_PyMN_2020/tree/main/Practica%201)
 * Volumen de una esfera
 * Calcular la fuerza de atracción del peso de una persona
@@ -40,3 +41,6 @@ Este repositorio contiene el proyecto final de la clase de Programación y Méto
 * Método de Jacobi
 * Método de Gauss Seidel
 
+![](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
+### Autor: Francisco Javier Ruiz Chan                    
+### Grupo: 021
