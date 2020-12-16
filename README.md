@@ -42,4 +42,5 @@
 * Método de Gauss Seidel
 
 ![](https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif)
-### By: Francisco Javier Ruiz Chan                       Grupo: 021
+### Autor: Francisco Javier Ruiz Chan                    
+### Grupo: 021
